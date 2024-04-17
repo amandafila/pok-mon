@@ -1,3 +1,5 @@
+# ***********************é necessário baixar a biblioteca TQDM***********************
+# por algum motivo só funciona direito no pycharm!!
 import random
 from tqdm import tqdm
 import time
